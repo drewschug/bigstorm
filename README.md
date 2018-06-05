@@ -10,20 +10,19 @@ Big Storm is a digital marketing company that does strategic [web design](https:
 
 We offer a wide range of traditional and digital marketing services that we’ve developed through years of real-world experience helping businesses like yours. Our services include:
 
-[Web Design](https://greatbigstorm.com/web-design/)
-[SEO](https://greatbigstorm.com/seo/)
-[PPC](https://greatbigstorm.com/pay-per-click-ppc-marketing/)
-[Social Media Management](https://greatbigstorm.com/social-media-marketing/)
-[Marketing Automation](https://greatbigstorm.com/marketing-automation/)
-[Web Analytics](https://greatbigstorm.com/web-analytics/)
-Copywriting Services
-Email Marketing
-Graphic Design
-[Marketing Services](https://greatbigstorm.com/marketing-services/)
+* [Web Design](https://greatbigstorm.com/web-design/)
+* [SEO](https://greatbigstorm.com/seo/)
+* [PPC](https://greatbigstorm.com/pay-per-click-ppc-marketing/)
+* [Social Media Management](https://greatbigstorm.com/social-media-marketing/)
+* [Marketing Automation](https://greatbigstorm.com/marketing-automation/)
+* [Web Analytics](https://greatbigstorm.com/web-analytics/)
+* Copywriting Services
+* Email Marketing
+* Graphic Design
+* [Marketing Services](https://greatbigstorm.com/marketing-services/)
 
 Big Storm
 212 S Wallace Ave 101a
 Bozeman, MT 59715
 
-Phone: 406-624-9321
-[greatbigstorm.com](https://greatbigstorm.com)
+Phone: 406-624-9321 | [greatbigstorm.com](https://greatbigstorm.com)
